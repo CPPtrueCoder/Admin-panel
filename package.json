@@ -1,0 +1,25 @@
+{
+  "name": "admin-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Rodin",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-react": "^7.8.3",
+    "babel-loader": "^8.0.6",
+    "gulp": "^4.0.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-stream": "^5.2.1"
+  }
+}
