@@ -1,7 +1,7 @@
 
 const gulp =require("gulp");
 const webpack = require("webpack-stream");
-const dist = "B:/OpenServer/OSPanel/domains/test-zagl/admin";
+const dist = "B:/MAMP/htdocs/test-zagl/admin";
 const sass= require("gulp-sass");
 
 gulp.task("copy-html",()=>{
